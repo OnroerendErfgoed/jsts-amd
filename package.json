@@ -1,0 +1,14 @@
+{
+  "name": "jsts-amd",
+  "version": "1.2.0",
+  "description": "Jsts 3 build with amd wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnroerendErfgoed/jsts-amd.git"
+  },
+  "devDependencies": {
+    "jsts": "~1.2.0"
+  },
+  "main": "./jsts.min.js",
+  "dojoBuild": "package.js"
+}
