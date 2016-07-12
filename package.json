@@ -9,6 +9,6 @@
   "devDependencies": {
     "jsts": "~1.2.0"
   },
-  "main": "./jsts.min.js",
+  "main": "./jsts",
   "dojoBuild": "package.js"
 }

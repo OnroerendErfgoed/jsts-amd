@@ -2,7 +2,7 @@
   "name": "jsts-amd",
   "description": "Jsts build with amd wrapper",
   "version": "1.2.0",
-  "main": "jsts.min.js",
+  "main": "jsts.js",
   "ignore": [
     ".bowerrc",
     ".gitignore",
